@@ -1,0 +1,10 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2016-08-31 21:14 UTC
+Nmap scan report for in-in-f100.1e100.net (74.125.201.100)
+Host is up (0.0012s latency).
+Not shown: 98 filtered ports
+PORT    STATE SERVICE
+80/tcp  open  http
+443/tcp open  https
+
+Nmap done: 1 IP address (1 host up) scanned in 1.79 seconds
